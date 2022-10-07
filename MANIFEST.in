@@ -1,0 +1,6 @@
+recursive-include aztek/docs *
+recursive-exclude tests *
+global-include */*.yaml
+global-include */*.jar
+global-include */*.key
+include build.info
